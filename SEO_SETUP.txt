@@ -1,0 +1,49 @@
+MRUNAL APKURE PORTFOLIO - SEO SETUP
+
+This version is prepared for:
+https://mrunalapkure.github.io/
+
+IMPORTANT: SEO does not guarantee that Google will rank the website first immediately.
+Google first has to discover, crawl and index the site.
+
+BEST GITHUB PAGES SETUP
+1. Sign in to GitHub.
+2. Create a NEW PUBLIC repository named exactly:
+   mrunalapkure.github.io
+3. Upload ALL files from this folder directly into that repository.
+4. Open repository Settings > Pages.
+5. Under Build and deployment, select:
+   Deploy from a branch
+6. Choose:
+   Branch: main
+   Folder: / (root)
+7. Save.
+8. Wait a few minutes, then open:
+   https://mrunalapkure.github.io/
+
+GOOGLE SEARCH CONSOLE
+1. Open Google Search Console.
+2. Add this property:
+   https://mrunalapkure.github.io/
+3. Verify ownership using the method Google provides.
+4. Use URL Inspection and enter:
+   https://mrunalapkure.github.io/
+5. Click Request Indexing.
+6. Submit this sitemap:
+   https://mrunalapkure.github.io/sitemap.xml
+
+TO HELP YOUR NAME RANK
+- Use the exact name "Mrunal Apkure" consistently on the portfolio, LinkedIn and GitHub.
+- Add the portfolio URL to LinkedIn Contact Info.
+- Add the portfolio URL to the GitHub profile bio.
+- Add the portfolio URL to your resume.
+- Keep your LinkedIn profile public enough for search engines to index it.
+- Link your GitHub repository/project back to your portfolio.
+- Update the website when you add projects, certificates or internships.
+
+If you later use a custom domain, update:
+- canonical URL in index.html
+- og:url in index.html
+- Person schema "url" in index.html
+- robots.txt sitemap URL
+- sitemap.xml <loc>
